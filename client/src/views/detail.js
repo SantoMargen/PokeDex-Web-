@@ -145,7 +145,7 @@ export default function Detail() {
               );
             })}
           </div>
-          <div className="picture">
+          <div className="picture ">
             <img
               src={details.imgUrl}
               alt="sprites"
